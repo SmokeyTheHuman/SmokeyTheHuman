@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SmokeyTheHuman
+- 👀 I’m interested in Computer Science and Biology
+- 🌱 I’m currently learning Javascript and plan to learn Python
+- 💞️ I’m looking to collaborate on nothing rn
+- 📫 How to reach me idk
